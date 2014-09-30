@@ -23,7 +23,7 @@ defmodule Sugar.Mixfile do
       { :plug, "~> 0.7.0" },
       { :jsex, "~> 2.0.0" },
       { :ecto, "~> 0.2.3" },
-      { :postgrex, "~> 0.5.5" },
+      { :postgrex, "~> 0.6.0" },
       { :plugs, github: "sugar-framework/plugs" },
       { :templates, github: "sugar-framework/templates" } ]
   end
